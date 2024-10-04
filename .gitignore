@@ -1,0 +1,35 @@
+##################
+# Unity ignores:
+#
+# !!! WARNING !!!
+#
+# � you MUST convert Unity to using Metafiles *before* you start using this
+#  .gitignore file, or you WILL lose data!
+#
+ 
+# OS X only:
+.DS_Store
+*.swp
+*.Trashes
+
+# Windows:
+Desktop.ini
+Thumbs.db
+ 
+# All platforms:
+Library
+/Library/
+/Library/*
+Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+Assets/Standard Assets/Light Cookies/Thumbs.db
+Assets/Resources/Keyboard.meta
+Assets/DataFiles/playerPrefs.xml
+Assets/Resources/Sandbox/testSkybox.mat
+Thumbs.db.meta
+Assets/Resources/Sandbox/testSkybox.mat.meta
+Assets/sandbox/testSkybox.mat

@@ -1,0 +1,123 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rstae_000\Documents\insomniaGame\Builds\test_Data\Managed\System.dll (this message is harmless)
+delay button sender: PlayButton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+delay finished: PlayButton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+time activated!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+delay button sender: ParanoiaButton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+delay finished: ParanoiaButton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+delay button sender: Load_1_8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+delay finished: Load_1_8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.994946 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Utilities.PickRandomPoint (UnityEngine.Collider2D boundingCollider, Boolean assumeBoxCollider) [0x00000] in <filename unknown>:0 
+  at GenerateObjects+GenerateNode.Generate () [0x00000] in <filename unknown>:0 
+  at GenerateObjects.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SetActive(Boolean)
+LevelPicker:Awake()
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2892.
+Total: 2.069746 ms (FindLiveObjects: 0.094425 ms CreateObjectMapping: 0.019695 ms MarkObjects: 1.491390 ms  DeleteObjects: 0.077034 ms)
+
+delay button sender: PauseButton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+delay finished: PauseButton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+delay button sender: QuitButton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
